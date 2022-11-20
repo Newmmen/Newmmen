@@ -8,7 +8,7 @@
 ## :abacus: Technology stack
 
 <p align="center">
-<img width="6%" title="IntelliJ IDEA" src="images/logo/Intelij_IDEA.svg">
+<img width="6%" title="IntelliJ IDEA" src="demowebshopApiUI/images/logo/Intelij_IDEA.svg">
 <img width="6%" title="Java" src="images/logo/Java.svg">
 <img width="6%" title="Selenide" src="images/logo/Selenide.svg">
 <img width="6%" title="Rest Assured" src="images/logo/RestAssured.png">
