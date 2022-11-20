@@ -22,6 +22,8 @@
 <img width="6%" title="Jira" src="images/logo/jira-seeklogo.com.svg">
 </p>
 
+## My projects:
+
 ### An example of Web + API test automation project:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Newmmen&repo=demowebshopApiUI)](https://github.com/Newmmen/demowebshopApiUI)
 
@@ -41,7 +43,9 @@ A list of important facts about the project:
 >
 > <code>Allure TestOps</code> form test-case's suits and dashboard and link selected test-cases and launches to <code>Jira</code> task.
 >  
-> After tests launch notification send to <code>Telegram</code> bot>.
+> After tests launch notification send to <code>Telegram</code> bot.
+
+
 
 ### An example of Mobile test automation project:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Newmmen&repo=MobileWiki)](https://github.com/Newmmen/MobileWiki)
