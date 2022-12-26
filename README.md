@@ -3,7 +3,7 @@
 👋 Hi, I am Yaroslav.
 
 - I'm a QA engineer for about 2 years
-- Student of QA automation school qa.guru
+- Graduated from QA automation school qa.guru
 
 
 ## Tools and technologies:
