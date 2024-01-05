@@ -2,7 +2,7 @@
 
 👋 Hi, I am Yaroslav.
 
-- I'm a QA engineer for about 2 years
+- I'm a QA engineer for about 3,5 years
 - Graduated from QA automation school qa.guru
 
 
